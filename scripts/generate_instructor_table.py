@@ -27,9 +27,6 @@ html = ''
 tr = ''
 
 for i, person in enumerate(instructors):
-    if i and not i % 2:
-        html += tr_template % tr
-        tr = ''
     name = person[0]
     url = person[1]
     affil = person[2]
@@ -37,5 +34,8 @@ for i, person in enumerate(instructors):
     image = name.split(' ')[-1].lower()
     tr += td_template.format(name=name, affil=affil, title=title, url=url,
                             image=image)
+    if (i and i % 2) or (i + 1) == len(instructors):
+        html += tr_template % tr
+        tr = ''
 
 print(html)
