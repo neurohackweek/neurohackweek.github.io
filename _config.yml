@@ -1,5 +1,5 @@
 # Site settings
-title: Neurohackweek
+title: NeuroHackademy
 email: arokem@uw.edu
 url: https://neurohackweek.github.io
 description: "A summer school in neuroimaging and data science at the University of Washington eScience Institute"
@@ -15,7 +15,7 @@ footer: Ariel, Rokem UW eScience Institute
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: https://twitter.com/neurohackweek
+    url: https://twitter.com/neurohackademy
   #- title: facebook
   #  url:
   #- title: stack-overflow
