@@ -11,6 +11,7 @@ instructors = [
     ('Eran Klein', 'https://phil.washington.edu/people/eran-klein', 'University of Washington'),
     ('Fernando Perez', 'https://bids.berkeley.edu/people/fernando-perez', 'University of California Berkeley'),
     ('Russell Poldrack', 'https://poldracklab.stanford.edu/', 'Stanford University'),
+    ('JB Poline', 'https://www.mcgill.ca/qls/researchers/jb-poline', 'McGill University'),
     ('Jake Vanderplas', 'http://escience.washington.edu/people/jake-vanderplas/', 'University of Washington'),
     ('Gael Varoquaux', 'http://gael-varoquaux.info/', 'INRIA'),
     ('Tor Wager', 'https://wagerlab.colorado.edu', 'University of Colorado Boulder'),
