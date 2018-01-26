@@ -1,7 +1,7 @@
 # Site settings
 title: NeuroHackademy
 email: arokem@uw.edu
-url: https://neurohackweek.github.io
+url: https://neurohackademy.github.io
 description: "A summer school in neuroimaging and data science at the University of Washington eScience Institute"
 
 # Color settings (hex-codes without the leading hash-tag)
@@ -23,7 +23,7 @@ social:
   #- title: bitbucket
   #  url: http://bitbucket.org/jekyll
   - title: github
-    url: https://github.com/neurohackweek
+    url: https://github.com/neurohackademy
 
 # Build settings
 markdown: kramdown
