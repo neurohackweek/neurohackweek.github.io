@@ -355,10 +355,16 @@ ul.banner-social-buttons li {
 
 footer {
     padding: 50px 0;
+    width: 100%;
+    background: white;
+    color: black;
+    border-top: 2px solid black;
 }
 
 footer p {
     margin: 0;
+    margin-top: 50px;
+    font-size: 16px;
 }
 
 ::-moz-selection {
