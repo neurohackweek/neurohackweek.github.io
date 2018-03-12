@@ -8,6 +8,7 @@ instructors = [
     ('Satra Ghosh', 'http://satra.cogitatum.org/', 'McGovern Institute for Brain Research', 'MIT'),
     ('Chris Gorgolewski', 'http://reproducibility.stanford.edu/team/chris-gorgolewski/', 'Department of Psychology', 'Stanford University'),
     ('Anisha Keshavan', 'http://ilabs.washington.edu/postdoctoral-fellows/bio/i-labs-anisha-keshavan', 'eScience Institute', 'University of Washington'),
+    ('Sanmi Koyejo', 'http://sanmi.cs.illinois.edu/', 'Department of Computer Science', 'University of Illinois at Urbana-Champaign'),
     ('Eran Klein', 'https://phil.washington.edu/people/eran-klein', 'Department of Philosophy', 'University of Washington'),
     ('Fernando Perez', 'https://bids.berkeley.edu/people/fernando-perez', 'Department of Statistics', 'University of California Berkeley'),
     ('Russell Poldrack', 'https://poldracklab.stanford.edu/', 'Department of Psychology', 'Stanford University'),
